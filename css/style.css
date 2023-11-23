@@ -13,6 +13,9 @@ h2 {
   font-size: 32px;
   font-weight: 600;
 }
+li {
+  margin: 10px;
+}
 .container {
   width: 1200px;
   margin: 0 auto;
@@ -30,9 +33,6 @@ h2 {
 }
 .purchase {
   text-align: center;
-}
-.purchase p {
-  margin: 10px;
 }
 .purchase .go-to-store {
   font-size: 32px;
