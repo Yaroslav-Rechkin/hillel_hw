@@ -38,3 +38,33 @@ li {
   font-size: 32px;
   margin: 50px 0;
 }
+.table_hw {
+  text-align: center;
+  font-size: 32px;
+  margin: 50px;
+}
+table {
+  margin: 50px auto;
+}
+table, td, tr {
+  border: 1px solid black;
+  border-collapse: separate;
+  border-spacing: 2px;
+}
+td {
+  background-color: #ECE4B7;
+  width: 100px;
+  height: 100px;
+}
+.td1 {background-color:#D36135}
+.td6 {background-color:#02020B;}
+.td7 {background-color: #E6AA68;}
+.td9 {background-color:#7FB069;}
+.td19 {background-color: #02020B;}
+.td24 {background-color: #D36135;}
+.td28 {background-color: #E6AA68;}
+table + p {
+  text-align: center;
+  font-size: 32px;
+  margin: 60px;
+}
